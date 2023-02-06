@@ -2,9 +2,9 @@
 
 > Sou estudante de análise e desenvolvimento de sistemas e trabalho como programador full-stack há mais de um ano. Além disso, por vir da área do design tive a oportunidade de trabalhar com desenvolvimento e análise de experiência do usuário por mais de dois anos e posso dizer que sou apaixonado por resolver questões com base na tecnologia.
 
-🔭 Com olhar orientado à solução de problemas, trabalho com tecnologias como ReactJS, NodeJS, HTML, CSS, JavaScript, Styled Components, SASS entre outras. Me    sinto confortável para atuar em todos os passos do desenvolvimento de uma aplicação, desde a descoberta até a implementação.
+> 🔭 Com olhar orientado à solução de problemas, trabalho com tecnologias como ReactJS, NodeJS, HTML, CSS, JavaScript, Styled Components, SASS entre outras. Me    sinto confortável para atuar em todos os passos do desenvolvimento de uma aplicação, desde a descoberta até a implementação.
 
-💬 Gosto de enfrentar novos desafios e sempre busco oportunidades de crescimento na minha carreira. Se você precisa de alguém confiável, criativo e apaixonado por tecnologia, sou a pessoa certa para o trabalho!
+> 💬 Gosto de enfrentar novos desafios e sempre busco oportunidades de crescimento na minha carreira. Se você precisa de alguém confiável, criativo e apaixonado por tecnologia, sou a pessoa certa para o trabalho!
 
 
 ----
